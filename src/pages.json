@@ -11,7 +11,8 @@
     {
       "path": "pages/tab/home/index",
       "style": {
-        "navigationBarTitleText": "首页"
+        "navigationBarTitleText": "首页",
+        "navigationStyle":"custom"
       }
     },
     {
